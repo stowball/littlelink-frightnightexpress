@@ -266,8 +266,8 @@ li {
 }
 
 .avatar {
-   height: 44px;
-   width: 150px;
+   height: 50px;
+   width: 50px;
 }
 
 h1 {
@@ -313,7 +313,7 @@ button {
 
 .button.button-default {
    color: #ffffff;
-   background-color: #0741D3;
-   background-image: linear-gradient(to bottom, #0741D3, #0638AC);
+   background-color: #1E2023;
+   background-image: linear-gradient(to bottom, #2A2D32, #1E2023);
    border: 1px solid rgba(255, 255, 255, 0.5);
 }
